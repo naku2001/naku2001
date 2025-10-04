@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Perfect Mak</h1>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PerfectMak/PerfectMak/main/assets/header.png" alt="Perfect Mak Banner" />
+</p>
+
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Perfect+Mak;AI/ML+Engineer+in+Training;Full-Stack+AI+Builder;Random+Processes+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">AI/ML Engineer in training | Random Processes Enthusiast | Full-stack AI Builder</h3>
 
 ---
@@ -11,14 +20,12 @@ I specialize in:
 - **Full Stack Development**: React (Vite) frontends, Flask/FastAPI backends, MongoDB, Qdrant, AWS  
 - **Research & Academics**: Random processes, WSS systems, power spectral density, Monte Carlo simulations  
 
-I thrive on challenging projects, experimenting with both classical and cutting-edge techniques, and sharing reproducible, well-documented work.  
-
 ---
 
 ### 🚀 What I'm up to
 - 🌱 Currently learning **Docker, Kubernetes, AWS SageMaker, ZenML**
-- 🔭 Working on an **AI Agent to help university applicants** (Flask/FastAPI + React + Qdrant + LLMs)
-- 🧪 Experimenting with **BM25 vs TF-IDF retrieval** and evaluation metrics  
+- 🔭 Building an **AI Agent to help university applicants** (Flask/FastAPI + React + Qdrant + LLMs)
+- 🧪 Running **BM25 vs TF-IDF retrieval experiments**
 - 📚 Studying **joint distributions, MGFs, characteristic functions, WSS processes**
 
 ---
@@ -47,6 +54,23 @@ I love experimenting with **AI + music** — building a tool to generate beats, 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,html,css,bootstrap,mysql,mongodb,aws,docker,linux,git" />
 </p>
+
+---
+
+### 📂 Latest Projects
+
+- 🏥 **Pneumonia Detection (Transfer Learning)**  
+  Compared **ResNet-50, EfficientNet, DenseNet-121, VGG16** with custom classification heads for medical image classification.  
+
+- 🔎 **BM25 & TF-IDF Retrieval Experiments**  
+  Implemented ranking functions, tuned hyperparameters, and evaluated with **MRR & NDCG** for code/document search tasks.  
+
+- 🎓 **AI University Application Agent**  
+  Full-stack assistant to help students research schools, track timelines, and draft documents.  
+  *Stack:* Flask, FastAPI, React (Vite), MongoDB, Qdrant  
+
+- 🎶 **AI Music Prototype**  
+  Experimental pipeline to generate beats, compose lyrics, and produce full songs.  
 
 ---
 
