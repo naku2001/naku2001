@@ -20,18 +20,13 @@
 
 ### 👨‍💻 About Me  
 
-# 👋 Open to ML Roles  
+### 👋 Open to Machine Learning Roles  
 
-Hey there! I’m passionate about using **machine learning to solve real-world problems** and turn ideas into things that actually help people.  
-I’ve worked on projects ranging from **classification and regression** to **deep learning for image recognition**, and I love the process of **fine-tuning models, optimizing hyperparameters, and getting them to perform reliably in practice**.  
+I’m passionate about using **machine learning** to solve real-world problems and build things that make a difference.  
+I’ve worked on **classification, deep learning, and LLM-based** projects, with hands-on experience in **AWS, MLflow, and vector databases**.  
+With a **software engineering background in Java**, I love bridging the gap between models and real applications.  
+Always curious and learning — I enjoy experimenting with **new architectures** and **turning ideas into impact**.
 
-I’ve also spent time **deploying ML systems on AWS**, experimenting with **MLflow**, and using **vector databases** to build scalable, production-ready workflows.  
-Before diving deep into ML, I came from a **software engineering background in Java**, which taught me how to design clean, efficient, and maintainable systems — a skill that helps me connect model building with real-world application.  
-
-Lately, I’ve been exploring **large language models**, **retrieval-augmented generation**, and tools like **LangChain** to create chatbots and decision-support systems that actually understand context.  
-
-What excites me most is taking an idea and **turning it into something useful** — whether it’s a model, an app, or a system that helps people **work smarter, learn faster, or connect better**.  
-I’m always curious, love learning, and I’m open to collaborating on **ML projects that make a real impact**.
 
 ---
 
