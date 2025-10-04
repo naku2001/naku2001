@@ -20,17 +20,18 @@
 
 ### 👨‍💻 About Me  
 
-### 👋 Open to ML Roles  
+# 👋 Open to ML Roles  
 
-I'm passionate about using **machine learning to solve real-world problems** and build impactful solutions.  
-I've worked on projects involving **classification, regression, and deep learning for image recognition**, and I enjoy **fine-tuning models, optimizing hyperparameters, and deploying reliable ML systems**.  
+Hey there! I’m passionate about using **machine learning to solve real-world problems** and turn ideas into things that actually help people.  
+I’ve worked on projects ranging from **classification and regression** to **deep learning for image recognition**, and I love the process of **fine-tuning models, optimizing hyperparameters, and getting them to perform reliably in practice**.  
 
-I have hands-on experience with **AWS, MLflow, and vector databases** for scalable, production-ready workflows.  
-Before ML, I built a strong foundation in **software engineering (Java)**, which helps me bridge the gap between model development and real-world integration.  
+I’ve also spent time **deploying ML systems on AWS**, experimenting with **MLflow**, and using **vector databases** to build scalable, production-ready workflows.  
+Before diving deep into ML, I came from a **software engineering background in Java**, which taught me how to design clean, efficient, and maintainable systems — a skill that helps me connect model building with real-world application.  
 
-Lately, I’ve been exploring **large language models (LLMs)**, **retrieval-augmented generation (RAG)**, and frameworks like **LangChain** to build intelligent chatbots and decision-support systems.  
+Lately, I’ve been exploring **large language models**, **retrieval-augmented generation**, and tools like **LangChain** to create chatbots and decision-support systems that actually understand context.  
 
-I love turning ideas into useful, real applications — whether it’s a model, system, or product that helps people **work smarter, learn faster, or connect better**.
+What excites me most is taking an idea and **turning it into something useful** — whether it’s a model, an app, or a system that helps people **work smarter, learn faster, or connect better**.  
+I’m always curious, love learning, and I’m open to collaborating on **ML projects that make a real impact**.
 
 ---
 
