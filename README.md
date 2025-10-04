@@ -62,7 +62,7 @@ On weekends, I enjoy **reading research papers** and **playing around with diffe
 </p>
 
 <p align="center">
-  <b>Machine Learning & AI:</b> TensorFlow • Keras • PyTorch • Scikit-learn • MLflow • NumPy • Pandas  
+  <b>Ml/AI:</b> TensorFlow • Keras • PyTorch • Scikit-learn • MLflow • NumPy • Pandas  
   <br>
   <b>Data & Deployment:</b> AWS (SageMaker, EC2, S3) • Streamlit • Docker • FastAPI • Flask  
   <br>
