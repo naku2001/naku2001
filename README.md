@@ -19,12 +19,11 @@
 ---
 
 ### 👨‍💻 About Me  
-I am passionate about building AI-driven applications and full-stack solutions that solve real-world problems.  
-I specialize in:
-- **Machine Learning & Deep Learning**: Transfer learning, autoencoders, anomaly detection, retrieval systems  
-- **NLP & IR**: BM25, TF-IDF, retrieval evaluation (MRR, NDCG), LLM infrastructure  
-- **Full Stack Development**: React (Vite) frontends, Flask/FastAPI backends, MongoDB, Qdrant, AWS  
-- **Research & Academics**: Random processes, WSS systems, power spectral density, Monte Carlo simulations  
+I’m passionate about using machine learning to solve real-world problems and build solutions that make a difference. I have worked on projects ranging from classification and regression models to deep learning for image recognition, and I enjoy the challenge of fine-tuning models, optimizing hyperparameters, and making them work reliably in practice. Along the way, I have gained experience deploying ML systems on AWS and using tools like MLflow and vector databases to support scalable, production ready workflows.
+
+Before diving deep into ML, I built a strong foundation in software engineering with Java, which taught me how to design clean, efficient, and maintainable systems. That background helps me bridge the gap between building models and integrating them into real world applications. More recently, I’ve also explored large language models and retrieval augmented generation, as well as frameworks like LangChain for building context-aware chatbots and decision-support tools.
+
+What excites me most is taking an idea and turning it into something useful whether it’s a model, a system, or an application that helps people work smarter, learn faster, or connect better. I’m always curious, eager to learn, and open to collaborating on projects where machine learning can create real impact.
 
 ---
 
