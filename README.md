@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Perfect;I love Coffee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Perfect+Mak" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI/ML Engineer in training | Random Processes Enthusiast | Full-stack AI Builder</h3>
