@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PerfectMak/PerfectMak/main/assets/header.png" alt="Perfect Mak Banner" />
+  <img src="https://github.com/naku2001/naku2001/blob/main/e2f3f9866e6dab122b75cfd344fc7269073af3f6c320fbb826a12f1e8293fbe1._SX1080_FMjpg_.jpg" alt="Perfect Mak Banner" />
 </p>
 
 <!-- Animated Typing Intro -->
