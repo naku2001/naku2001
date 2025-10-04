@@ -29,11 +29,17 @@ What excites me most is taking an idea and turning it into something useful whet
 
 ### 🚀 What I'm up to
 - 🌱 Currently learning **Docker, Kubernetes, AWS SageMaker, ZenML**
-- 🔭 Building an **AI Agent to help university applicants** (Flask/FastAPI + React + Qdrant + LLMs)
+- 🔭 Building an **end to end real-time youtube sentiment analysis ** 
 - 🧪 Running **BM25 vs TF-IDF retrieval experiments**
-- 📚 Studying **joint distributions, MGFs, characteristic functions, WSS processes**
+- 📚 Studying **Msc in Applied Artificial Intelligence**
 
 ---
+### 🌐 Connect with me
+<p align="center">
+  <a href="mailto:your-email-here"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</p>
 
 ### 💬 Ask me about
 - Probability & Random Processes  
@@ -43,15 +49,8 @@ What excites me most is taking an idea and turning it into something useful whet
 
 ---
 
-### 📫 How to reach me
-- Email: **perfectprincessmakuwerere98@**  
-- GitHub: https://github.com/naku2001
-- LinkedIn: https://www.linkedin.com/in/perfectmakuwerere 
-
----
-
 ### ⚡ Fun fact
-I love experimenting with **AI + music** — building a tool to generate beats, add lyrics, and turn them into songs 🎶  
+On weekends, I enjoy **reading research papers** and **playing around with different model architectures** just for fun 🤓  
 
 ---
 
@@ -69,19 +68,9 @@ I love experimenting with **AI + music** — building a tool to generate beats, 
 
 - 🔎 **BM25 & TF-IDF Retrieval Experiments**  
   Implemented ranking functions, tuned hyperparameters, and evaluated with **MRR & NDCG** for code/document search tasks.  
-
-- 🎓 **AI University Application Agent**  
-  Full-stack assistant to help students research schools, track timelines, and draft documents.  
-  *Stack:* Flask, FastAPI, React (Vite), MongoDB, Qdrant  
+ 
 
 - 🎶 **AI Music Prototype**  
   Experimental pipeline to generate beats, compose lyrics, and produce full songs.  
 
----
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="mailto:your-email-here"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white"></a>
-</p>
