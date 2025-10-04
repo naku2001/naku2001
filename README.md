@@ -59,8 +59,17 @@ On weekends, I enjoy **reading research papers** and **playing around with diffe
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,html,css,bootstrap,mysql,mongodb,aws,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,aws,streamlit,git,linux,mysql" />
 </p>
+
+<p align="center">
+  <b>Machine Learning & AI:</b> TensorFlow • Keras • PyTorch • Scikit-learn • MLflow • NumPy • Pandas  
+  <br>
+  <b>Data & Deployment:</b> AWS (SageMaker, EC2, S3) • Streamlit • Docker • FastAPI • Flask  
+  <br>
+  <b>Tools & Workflow:</b> ZenML • Qdrant • Hugging Face • Matplotlib • Seaborn • Jupyter
+</p>
+
 
 ---
 
