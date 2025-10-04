@@ -14,7 +14,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Perfect;I+love+coffee+☕;I+love+gaming+🎮" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Sometimes science is more art than science, Morty. A lot of people don’t get that.</h3>
+<h3 align="center">
+  <i style="font-family: 'Brush Script MT', cursive, sans-serif;">
+    Sometimes science is more art than science, Morty. A lot of people don’t get that.
+  </i>
+</h3>
 
 ---
 
