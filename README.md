@@ -44,9 +44,9 @@ What excites me most is taking an idea and turning it into something useful whet
 ---
 
 ### 📫 How to reach me
-- Email: **[your-email-here]**  
+- Email: **perfectprincessmakuwerere98@**  
 - GitHub: [PerfectMak](https://github.com/PerfectMak)  
-- LinkedIn: [Your LinkedIn Here]  
+- LinkedIn: [https://www.linkedin.com/in/perfectmakuwerere]  
 
 ---
 
