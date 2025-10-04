@@ -25,7 +25,7 @@
 I’m passionate about using **machine learning** to solve real-world problems and build things that make a difference.  
 I’ve worked on **classification, deep learning, and LLM-based** projects, with hands-on experience in **AWS, MLflow, and vector databases**.  
 With a **software engineering background in Java**, I love bridging the gap between models and real applications.  
-Always curious and learning — I enjoy experimenting with **new architectures** and **turning ideas into impact**.
+Always curious and learning, I enjoy experimenting with **new architectures** and **turning ideas into impact**.
 
 
 ---
