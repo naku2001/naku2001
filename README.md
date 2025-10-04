@@ -19,11 +19,18 @@
 ---
 
 ### 👨‍💻 About Me  
-I’m passionate about using machine learning to solve real-world problems and build solutions that make a difference. I have worked on projects ranging from classification and regression models to deep learning for image recognition, and I enjoy the challenge of fine-tuning models, optimizing hyperparameters, and making them work reliably in practice. Along the way, I have gained experience deploying ML systems on AWS and using tools like MLflow and vector databases to support scalable, production ready workflows.
 
-Before diving deep into ML, I built a strong foundation in software engineering with Java, which taught me how to design clean, efficient, and maintainable systems. That background helps me bridge the gap between building models and integrating them into real world applications. More recently, I’ve also explored large language models and retrieval augmented generation, as well as frameworks like LangChain for building context-aware chatbots and decision-support tools.
+### 👋 Open to ML Roles  
 
-What excites me most is taking an idea and turning it into something useful whether it’s a model, a system, or an application that helps people work smarter, learn faster, or connect better. I’m always curious, eager to learn, and open to collaborating on projects where machine learning can create real impact.
+I'm passionate about using **machine learning to solve real-world problems** and build impactful solutions.  
+I've worked on projects involving **classification, regression, and deep learning for image recognition**, and I enjoy **fine-tuning models, optimizing hyperparameters, and deploying reliable ML systems**.  
+
+I have hands-on experience with **AWS, MLflow, and vector databases** for scalable, production-ready workflows.  
+Before ML, I built a strong foundation in **software engineering (Java)**, which helps me bridge the gap between model development and real-world integration.  
+
+Lately, I’ve been exploring **large language models (LLMs)**, **retrieval-augmented generation (RAG)**, and frameworks like **LangChain** to build intelligent chatbots and decision-support systems.  
+
+I love turning ideas into useful, real applications — whether it’s a model, system, or product that helps people **work smarter, learn faster, or connect better**.
 
 ---
 
