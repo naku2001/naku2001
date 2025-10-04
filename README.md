@@ -20,13 +20,12 @@
 
 ### 👨‍💻 About Me  
 
-### 👋 Open to Machine Learning Roles  
+👋 Open to Machine Learning Roles  
 
 I’m passionate about using **machine learning** to solve real-world problems and build things that make a difference.  
-I’ve worked on **classification, deep learning, and LLM-based** projects, with hands-on experience in **AWS, MLflow, and vector databases**.  
-With a **software engineering background in Java**, I love bridging the gap between models and real applications.  
-Always curious and learning, I enjoy experimenting with **new architectures** and **turning ideas into impact**.
-
+I’ve worked on projects involving **classification, regression, clustering, deep learning, and LLM-based systems**, with hands-on experience in **AWS, MLflow, and vector databases**.  
+With a strong **software engineering background in Java**, I enjoy bridging the gap between models and real-world applications.  
+Curious by nature, I love exploring **new architectures**, experimenting with ideas, and turning them into impactful solutions.
 
 ---
 
