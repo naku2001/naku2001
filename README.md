@@ -32,7 +32,7 @@ Always curious and learning, I enjoy experimenting with **new architectures** an
 
 ### 🚀 What I'm up to
 - 🌱 Currently learning **Docker, Kubernetes, AWS SageMaker, ZenML**
-- 🔭 Building an **end to end real-time youtube sentiment analysis ** 
+- 🔭 Building an **end to end real-time youtube sentiment analysis** 
 - 🧪 Running **BM25 vs TF-IDF retrieval experiments**
 - 📚 Studying **Msc in Applied Artificial Intelligence**
 
